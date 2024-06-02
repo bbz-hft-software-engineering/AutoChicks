@@ -51,7 +51,7 @@ Der compilierte CODE wird per USB auf das Developmentboard des ESP32 geladen. Ei
 ## Testing
 
 Das Testing findet per ausgabe auf dem Seriellen-Monitor der IDE statt. Wichtige Daten und Systemzustände werden darüber ausgegeben, insofern die Option im settings.h aktiviert wurde.
-Mit einem ausführlichen Testprotokoll ( Siehe Exel Tabelle ) wurde die Korrekte funktion der Software getrackt und dokumentiert. 
+Die Software wurde funktionsweise getestet, indem Sensoren so angeregt wurden um Verschiedene Bedingungen zu schaffen. Ein Dauertest mit Realbedingungen ist noch ausstehend und wird zu einem späteren Zeitpunkt durchgeführt.
 Hochautomatisierte Unit tests gestalten sich schwierig, da der komplette Softwareablauf Sensorgesteuert ist und würde den Rahmen für diese Arbeit sprengen.
 
 ## Datensicherheit
