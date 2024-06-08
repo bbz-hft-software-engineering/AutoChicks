@@ -38,7 +38,8 @@ Folgende Nicht Funktionale anforderungen müssen beachtet werden:
 
 ## Systemdesign
 
-TODO
+![Automatisierter Hühnerstall](https://github.com/bbz-hft-software-engineering/AutoChicks/assets/14927776/b4e02f21-7676-4a08-8ea4-4a9181ddceb4)
+
 
 ## Coding
 
